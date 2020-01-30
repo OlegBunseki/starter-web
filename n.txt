@@ -1,1 +1,3 @@
 a
+Added to stage area
+Working area

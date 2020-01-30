@@ -9,8 +9,9 @@ It is important!
 
 ## Section 2
 
+- This is in staging area
 Follow me
 
 ## Section 3: Deployment
-
+- This is not staged yet
 Simple text
