@@ -1,3 +1,4 @@
 This my first line
 This is a second line
-What do you think about this?
+
+I think is better style :)
