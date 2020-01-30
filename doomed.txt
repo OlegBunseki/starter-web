@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Test
 
 This line has been added in the feature branch.
 
 Forgot one line.
 
+=======
+Test - ok - I change this
+
+And also this line
+>>>>>>> dev
