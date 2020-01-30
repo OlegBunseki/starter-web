@@ -1,3 +1,4 @@
 Test - ok - I change this
 -> This is from foo!
 And also this line <please note: this is not mandotary!>
+Line 4
