@@ -3,8 +3,7 @@
 
 # TEAM
 
-    Bobo
-    Data Scientist
+    <name> -- <role> -- <twitter>
 
 # THANKS
 
