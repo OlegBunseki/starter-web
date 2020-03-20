@@ -1,5 +1,5 @@
 option 1
 test
-c
+paste
 master
 e
