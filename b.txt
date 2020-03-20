@@ -1,5 +1,5 @@
 option 2
-test change
+master
 paste
 master
 e
