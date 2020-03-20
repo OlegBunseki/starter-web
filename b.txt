@@ -1,5 +1,5 @@
 option 2
-master
+line 3
 paste
 master
 e
