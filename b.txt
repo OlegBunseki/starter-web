@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 option 2
-=======
-option 1
->>>>>>> test
 test
 c
 master
