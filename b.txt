@@ -1,5 +1,9 @@
 option 2
 test
+<<<<<<< HEAD
 copy
+=======
+paste
+>>>>>>> test
 master
 e
