@@ -1,6 +1,7 @@
 # My first Project
 
 This repository is for showing how Git and GitHub work
+Adding rebasing example
 
 ## Section 1
 
